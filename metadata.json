@@ -1,0 +1,5 @@
+{
+  "name": "QuizDoc Converter Pro",
+  "description": "A high-performance tool that converts Word (.docx) test files into structured JSON format using AI-powered parsing for maximum accuracy.",
+  "requestFramePermissions": []
+}
